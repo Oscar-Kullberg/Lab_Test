@@ -14,7 +14,6 @@ while x != "done":
  except:
     if x != x.isdigit():
      print("not a number")
-    
 
 
 
